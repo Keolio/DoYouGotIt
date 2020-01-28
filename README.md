@@ -8,9 +8,9 @@ Il est maintenant l'heure de faire vos preuves sur la partie technique.
 
 Prêt(e) à nous vendre du rêve ? 🌈
 
-## Votre mission 🎯
+## Votre mission (si vous l'acceptez) 🎯
 
-Le but est de réaliser l'intégration de la maquette qui vous a été fourni. Bien sûr, en y ajoutant votre touche personnelle pour mettre des paillettes dans nos vies. ✨
+Le but est de réaliser l'intégration de la maquette qui vous a été fournie. Bien sûr, en y ajoutant votre touche personnelle pour mettre des paillettes dans nos vies. ✨
 
 Pour cela, vous pouvez utiliser le "starter" que vous souhaitez (grunt, gulp, webpack, ...) ou même un framework JS (ReactJS, VueJS, Nuxt, ...), mais aussi :
 
@@ -22,7 +22,7 @@ Même un framework CSS & des libs d'animations, ...
 
 ## Livraison 🎁
 
-Le rendu doit contenir les sources de votre code ainsi que la version compilé.
+Le rendu doit contenir les sources de votre code ainsi que la version compilée.
 
 Il vous est possible de nous fournir l'url de votre repository git ou directement un zip.
 
