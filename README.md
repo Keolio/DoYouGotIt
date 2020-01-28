@@ -26,4 +26,8 @@ Le rendu doit contenir les sources de votre code ainsi que la version compilé.
 
 Il vous est possible de nous fournir l'url de votre repository git ou directement un zip.
 
+## Let's Go ! 🚀
+
+À vous de "jouer" !
+
 ![Go !](https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif)
