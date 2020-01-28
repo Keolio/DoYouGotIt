@@ -2,7 +2,7 @@
 
 ## Introduction ✌️
 
-Félicitations, vous avez passé votre premier entretien avec succés !
+Félicitations, vous avez passé votre premier entretien avec succès !
 
 Il est maintenant l'heure de faire vos preuves sur la partie technique.
 
